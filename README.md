@@ -18,7 +18,7 @@
 
 ### Exemple de flow
 
-![](res/flow.png)
+![](/res/flow.PNG)
 
 ## Liste des participants
 
